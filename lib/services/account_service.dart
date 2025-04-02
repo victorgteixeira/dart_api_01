@@ -1,5 +1,4 @@
 import 'dart:async';
-
 import 'package:dart_assincronismo/api_key.dart';
 import 'package:dart_assincronismo/models/account.dart';
 import 'package:http/http.dart';
